@@ -110,27 +110,3 @@ const badCards = findInvalidCards(batch);
 console.log(idInvalidCardCompanies(badCards));
 //console.log(badCards);
 
-/*
-console.log(validateCred(valid1));
-console.log(validateCred(valid2));
-console.log(validateCred(valid3));
-console.log(validateCred(valid4));
-console.log(validateCred(valid5));
-
-console.log(validateCred(invalid1));
-console.log(validateCred(invalid2));
-console.log(validateCred(invalid3));
-console.log(validateCred(invalid4));
-console.log(validateCred(invalid5));
-
-console.log(validateCred(mystery1));
-//false
-console.log(validateCred(mystery2));
-//true
-console.log(validateCred(mystery3));
-//false
-console.log(validateCred(mystery4));
-//false
-console.log(validateCred(mystery5));
-//true
-*/
